@@ -70,5 +70,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 
-- GitHub [@KhanSaheb17](https://github.com/KhanSaheb17)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- [Github](https://github.com/KhanSaheb17)
+- [Telegram](https://t.me/sakibbinyeasin)
