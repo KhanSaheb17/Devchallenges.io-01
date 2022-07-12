@@ -12,12 +12,11 @@ body {
   justify-content: center;
   min-height: 100vh;
   background-color: lightgrey;
-  padding: 40px 0;
 }
 
 main {
   width:375px;
-  height: /*949px*/auto;
+  height:949px;
   background-color: white;
   border-radius: 8px;
   font-family: 'Space Mono', monospace;
